@@ -10810,8 +10810,6 @@ header.masthead .post-heading .meta a {
     justify-content: center;
 }  
 .image-container img {
-/*    width: 300;*/
-/*    height: 100%;*/
     object-fit: contain;
     padding: 5px;
 }
